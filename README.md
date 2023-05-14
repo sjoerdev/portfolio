@@ -1,2 +1,2 @@
-# portfolio
-This is my portfolio website.
+# Portfolio
+This is my portfolio/resume website
